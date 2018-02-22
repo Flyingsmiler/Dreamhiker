@@ -1,7 +1,7 @@
 .gradient {
     display: inline-block;
     font-size: 100px;
-    font-family: 'microsoft yahei';
+    font-family: italic arial,microsoft yahei,sans-serif;
     background-image: -webkit-gradient(linear, left center, right center, from(rgba(176, 31, 184, 1)), to(rgba(255, 89, 76, 1)));
     -webkit-background-clip: text;
     -webkit-text-fill-color: transparent;
